@@ -1,13 +1,9 @@
 <h1 align="center">Hi , I'm Brayan Guimarães!</h1>
-<h3 align="center">A man of discipline and focus from Brazil</h3>
+<h3 align="center">Continuous Growth Is My Motto</h3>
 
-- 🌱 I’m currently learning: **Python, Chinese(mandarin) and on topics related to Entrepreneurship**
+- How to reach me: **brayan.guimaraes.almeida@gmail.com**
 
-- 📫 How to reach me: **brayan.guimaraes.almeida@gmail.com**
-
-- 📄 About my experiences: Actually not employed but working on improving my skills to finally get some hands on real experience.
-
-- ⚡ Fun fact: **I am trilingual (PT-BR, ENG, FR); I am always determined to solve problems at their root and stop only when the problem is solved; Aspiring Entrepreneur.**
+- About my experiences: Actually not employed but working on improving my skills to finally get some hands on real experience.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
